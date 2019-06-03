@@ -1,7 +1,13 @@
-.name {
-    font-size: 30px;
+body {
+    display: flex;
+    flex-direction: column;
 }
 
-body {
-    background: url("../../assets/images/splashBackground.svg") no-repeat;
-}
+.name {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    font-size: 60px;
+    margin-left: 15px;
+  }
