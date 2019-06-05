@@ -3,11 +3,20 @@ body {
     flex-direction: column;
 }
 
+h1 {
+    line-height: 0px;
+}
+
 .name {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
     color: white;
     font-size: 60px;
-    margin-left: 15px;
+    display: flex;
+    margin-left: 100px;
+  }
+
+  .role {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    margin-left: 100px;
   }
