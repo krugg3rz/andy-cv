@@ -1,21 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1728 2592" style="enable-background:new 0 0 1728 2592;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#663300;}
-	.st1{fill:#CC6600;}
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1728 2592"
+   style="enable-background:new 0 0 1728 2592;"
+   xml:space="preserve"
+   sodipodi:docname="splashBackground.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs27" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1986"
+   inkscape:window-height="1129"
+   id="namedview25"
+   showgrid="false"
+   inkscape:zoom="0.34"
+   inkscape:cx="864"
+   inkscape:cy="1296"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#CCCCCC;}
+	.st1{fill:#FF6600;}
+	.st2{fill:#FF9933;}
+	.st3{fill:none;}
+	.st4{fill:#CC6600;}
+	.st5{font-family:'CourierNewPS-BoldMT';}
+	.st6{font-size:250px;}
 </style>
-<path class="st0" d="M1377.5,1683.4H-72.8c-45.3,0-82.1-21.8-82.1-48.7V1545c0-26.9,36.7-48.7,82.1-48.7h1450.3
-	c45.3,0,82.1,21.8,82.1,48.7v89.7C1459.6,1661.6,1422.8,1683.4,1377.5,1683.4z"/>
-<path class="st0" d="M1190.2,2598.8v-919.2c0-26.9,21.8-48.7,48.7-48.7h89.7c26.9,0,48.7,21.8,48.7,48.7v919.2
-	c0,26.9-21.8,48.7-48.7,48.7h-89.7C1212,2647.5,1190.2,2625.7,1190.2,2598.8z"/>
-<path class="st1" d="M1089.9,1496.2H593.1c-32.9,0-59.4-27.1-59.4-60.6V866.5c0-33.5,26.5-60.6,59.4-60.6h496.8
-	c32.9,0,59.4,27.1,59.4,60.6v569.1C1149.4,1469.1,1122.7,1496.2,1089.9,1496.2z"/>
-<path class="st1" d="M1308.8,1045.4h-237.4c-19,0-34.3-15.6-34.3-34.9v-31.1c0-19.3,15.3-34.9,34.3-34.9h237.4
-	c19,0,34.3,15.6,34.3,34.9v31.1C1343.2,1029.8,1327.8,1045.4,1308.8,1045.4z"/>
-<path class="st1" d="M1301.5,1372.5h-222.7c-23,0-41.7-19-41.7-42.5v-10.7c0-23.5,18.7-42.5,41.7-42.5h222.7c23,0,41.7,19,41.7,42.5
-	v10.7C1343.2,1353.4,1324.5,1372.5,1301.5,1372.5z"/>
-<path class="st1" d="M1251.4,1307.2v-297.7c0-15.2,12.1-27.5,27-27.5h37.8c14.9,0,27,12.3,27,27.5v297.7c0,15.2-12.1,27.5-27,27.5
-	h-37.8C1263.4,1334.7,1251.4,1322.3,1251.4,1307.2z"/>
+<path
+   class="st0"
+   d="M187.7,1626.5v-89.7c0-26.9,36.8-48.7,82.1-48.7h1450.3c45.4,0,82.1,21.8,82.1,48.7v89.7  c0,26.9-36.8,48.7-82.1,48.7H269.8C224.5,1675.2,187.7,1653.4,187.7,1626.5z"
+   id="path4"
+   style="fill:#c8b7b7" />
+<path
+   class="st0"
+   d="M408.4,2639.3h-89.7c-26.9,0-48.7-21.8-48.7-48.7v-919.2c0-26.9,21.8-48.7,48.7-48.7h89.7  c26.9,0,48.7,21.8,48.7,48.7v919.2C457.1,2617.5,435.3,2639.3,408.4,2639.3z"
+   id="path6"
+   style="fill:#c8b7b7" />
+<path
+   class="st1"
+   d="M1126.9,861.8H623.1c-20.4,0-37,16.6-37,37v552.3c0,20.4,16.6,37,37,37h503.8c20.4,0,37-16.6,37-37V898.8  C1163.9,878.4,1147.4,861.8,1126.9,861.8z"
+   id="path8" />
+<path
+   class="st1"
+   d="M1359.3,945.3h-200.2c-20.4,0-37,16.6-37,37v34.2c0,20.4,16.6,37,37,37h200.2c20.4,0,37-16.6,37-37v-34.2  C1396.3,961.9,1379.7,945.3,1359.3,945.3z"
+   id="path10" />
+<path
+   class="st1"
+   d="M1359.3,1296.3h-200.2c-20.4,0-37,16.6-37,37v34.2c0,20.4,16.6,37,37,37h200.2c20.4,0,37-16.6,37-37v-34.2  C1396.3,1312.9,1379.7,1296.3,1359.3,1296.3z"
+   id="path12" />
+<path
+   class="st1"
+   d="M1396.3,1323.7v-301.3c0-20.4-16.6-37-37-37h-34.2c-20.4,0-37,16.6-37,37v301.3c0,20.4,16.6,37,37,37h34.2  C1379.7,1360.7,1396.3,1344.1,1396.3,1323.7z"
+   id="path14" />
+<path
+   class="st2"
+   d="M875,1378.5L875,1378.5c-112.4,0-203.6-91.1-203.6-203.6v0c0-112.4,91.1-203.6,203.6-203.6h0  c112.4,0,203.6,91.1,203.6,203.6v0C1078.6,1287.4,987.5,1378.5,875,1378.5z"
+   id="path16" />
+<rect
+   x="728"
+   y="1082.5"
+   class="st3"
+   width="314.6"
+   height="224.9"
+   id="rect18" />
+<text
+   transform="matrix(1 0 0 1 727.9987 1240.7479)"
+   class="st4 st5 st6"
+   id="text20">AF</text>
+
+<polygon
+   class="st3"
+   points="715.7,1194.9 707.4,1194.9 707.4,1194.9 715.7,1194.9 "
+   id="polygon22" />
 </svg>
