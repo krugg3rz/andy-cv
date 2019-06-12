@@ -1,22 +1,30 @@
-body {
-    display: flex;
-    flex-direction: column;
-}
-
 h1 {
     line-height: 0px;
 }
 
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 60vh;
+  height: 100vh;
+  margin-left: 50px;
+  color: white;
+  margin-left: 100px;
+}
+
+.splashImage {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  max-height: 800px;
+}
+
 .name {
-    color: white;
     font-size: 60px;
-    display: flex;
-    margin-left: 100px;
   }
 
   .role {
-    color: white;
     font-size: 40px;
-    display: flex;
-    margin-left: 100px;
   }

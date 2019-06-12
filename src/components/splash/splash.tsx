@@ -18,7 +18,7 @@ class Splash extends React.Component<IProps, IState> {
                     <h1 className={styles.name}>Andy Ford</h1>
                     <h2 className={styles.role}>Front-end Developer</h2>
                 </section>
-                <img src={splashImage}></img>
+                <img className={styles.splashImage} src={splashImage}></img>
             </article>
          );
     }
