@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vx;
+    margin-left: 100px;
+    color: white;
+    width: 30vw;
+}
+
+.background {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 90vh;
+}

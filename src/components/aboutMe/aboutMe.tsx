@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styles from "./aboutMe.module.scss";
-import aboutMeBackground from "../../assets/images/aboutMeBackground.png";
+import aboutMeBackground from "../../assets/images/aboutMeBackground.svg";
 
 export interface IProps {
     

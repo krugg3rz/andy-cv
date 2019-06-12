@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styles from "../splash/splash.module.scss";
-import splashImage from "../../assets/images/splashbackground.png";
+import splashImage from "../../assets/images/splashBackground.svg";
 
 export interface IProps {
     
