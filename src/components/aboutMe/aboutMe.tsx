@@ -1,5 +1,6 @@
 import * as React from 'react';
 import styles from "./aboutMe.module.scss";
+import aboutMeBackground from "../../assets/images/aboutMeBackground.svg";
 
 export interface IProps {
     
@@ -21,6 +22,7 @@ class AboutMe extends React.Component<IProps, IState> {
                     <p>My best skills are communication & working under pressure.</p>
                     <p>Consistently demanded to produce quality products within strict time deadlines, maintaining clear, efficient communication to maintain delivery and safety in the workplace.</p>
                 </article>
+                <img src={aboutMeBackground} />
             </section>
          );
     }
