@@ -3,6 +3,7 @@ import NavBar from "../navBar/navbar";
 import AboutMe from "../aboutMe/aboutMe";
 import Splash from "../splash/splash";
 import Skills from "../skills/skills";
+import Past from "../past/past";
 import styles from "./innerApp.module.scss";
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
@@ -24,6 +25,7 @@ class InnerApp extends React.Component<IProps, IState> {
             <Route path="/" exact component={Splash} />
             <Route path="/aboutMe" component={AboutMe} />
             <Route path="/skills" component={Skills} />
+            <Route path="/past" component={Past} />
             </Switch>
             </section>
             </Router>

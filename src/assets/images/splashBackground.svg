@@ -35,7 +35,7 @@
    id="namedview25"
    showgrid="false"
    inkscape:zoom="0.34"
-   inkscape:cx="864"
+   inkscape:cx="386.05882"
    inkscape:cy="1296"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
@@ -81,7 +81,8 @@
 <path
    class="st2"
    d="M875,1378.5L875,1378.5c-112.4,0-203.6-91.1-203.6-203.6v0c0-112.4,91.1-203.6,203.6-203.6h0  c112.4,0,203.6,91.1,203.6,203.6v0C1078.6,1287.4,987.5,1378.5,875,1378.5z"
-   id="path16" />
+   id="path16"
+   style="fill:#aa4400" />
 <rect
    x="728"
    y="1082.5"
@@ -92,7 +93,11 @@
 <text
    transform="matrix(1 0 0 1 727.9987 1240.7479)"
    class="st4 st5 st6"
-   id="text20">AF</text>
+   id="text20"
+   style="fill:#ff6600;"><tspan
+     style="-inkscape-font-specification:'Courier New Bold';font-family:'Courier New';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#ff6600;"
+     id="tspan825">AF</tspan></text>
+
 
 <polygon
    class="st3"

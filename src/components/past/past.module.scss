@@ -9,14 +9,18 @@ h1 {
     align-items: flex-start;
     height: 100vh;
     margin-left: 160px;
+    width: 50vh;
     color: white;
-    width: 30vw;
     font-size: 20px;
 }
 
-.background {
+img {
     position: fixed;
     right: 0;
     bottom: 0;
     height: 100vh;
+}
+
+.role {
+    font-weight: bold;
 }
