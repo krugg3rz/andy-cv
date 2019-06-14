@@ -17,7 +17,7 @@ class AboutMe extends React.Component<IProps, IState> {
             <section className={styles.main}>
                 <h1 className={styles.title}>About Me</h1>
                 <article className={styles.profile}>
-                    <p>_nology bootcamp graduate working experienced with JavaScript & React.</p>
+                    <p>_nology bootcamp graduate experienced with JavaScript & React.</p>
                     <p>Experienced in a multitude of skills acquired over a range of diverse trades.</p>
                     <p>My best skills are communication & working under pressure.</p>
                     <p>Consistently demanded to produce quality products within strict time deadlines, maintaining clear, efficient communication to maintain delivery and safety in the workplace.</p>
