@@ -5,7 +5,7 @@ h1 {
 .header {
   display: flex;
   flex-direction: column;
-  align-self: flex-start;
+  align-items: flex-start;
   justify-content: center;
   width: 60vh;
   height: 100vh;
@@ -13,7 +13,11 @@ h1 {
   margin-left: 160px;
 }
 
-.splashImage {
+.splashbackgroundMobile {
+  display: none;
+}
+
+.splashBackground {
   position: fixed;
   right: 0;
   bottom: 0;
@@ -27,4 +31,41 @@ h1 {
 
   .role {
     font-size: 40px;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    .splashBackgroundMobile {
+      display: inline-block;
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      height: 30vh;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .splashBackground {
+      display: none;
+    }
+
+    .header {
+      margin-top: 100px;
+      height: 30vh;
+      width: 60vw;
+      margin-left: 105px;
+      -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: rgb(146, 66, 0);
+   
+    }
+
+    .role {
+      line-height: 0px;
+      font-size: 25px;
+      height: 80vh;
+    }
+
+    .name {
+      line-height: 0px;
+      font-size: 50px;
+      height: 80vh;
+    }
   }

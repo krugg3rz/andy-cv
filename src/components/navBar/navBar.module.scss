@@ -52,3 +52,9 @@ a:hover, a:active { text-decoration: none; }
     width: 100px;
     height: 70px;
 }
+
+@media only screen and (max-width: 1200px) {
+    .icons {
+        height: 90vh;
+    }
+  }

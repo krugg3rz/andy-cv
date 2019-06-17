@@ -1,4 +1,4 @@
-h1 {
+.title {
     font-size: 40px;
 }
 
@@ -14,7 +14,11 @@ h1 {
     font-size: 20px;
 }
 
-img {
+.pastBackgroundMobile {
+  display: none;
+}
+
+.pastBackground {
     position: fixed;
     right: 0;
     bottom: 0;
@@ -24,3 +28,35 @@ img {
 .role {
     font-weight: bold;
 }
+
+@media only screen and (max-width: 1200px) {
+  .pastBackgroundMobile {
+    display: inline-block;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 30vh;
+  }  
+  
+  .pastBackground {
+      display: none;
+    }
+
+  .title {
+    font-size: 30px;
+  }
+  
+    .main {
+      height: 60vh;
+      width: 70vw;
+      font-size: 11px;
+      margin-left: 105px;
+      -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: rgb(146, 66, 0);
+   font-weight: bold;
+    }
+
+  .role {
+        font-size: 15px;
+    }
+  }

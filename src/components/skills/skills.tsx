@@ -1,6 +1,7 @@
 import * as React from 'react';
 import styles from "./skills.module.scss";
 import skillsBackground from "../../assets/images/skillsBackground.svg";
+import skillsBackgroundMobile from "../../assets/images/skillsBackgroundMobile.svg";
 
 export interface IProps {
     
@@ -14,7 +15,7 @@ class Skills extends React.Component<IProps, IState> {
     render() { 
         return ( 
             <section className={styles.main}>
-            <h1>Skills</h1>
+            <h1 className={styles.title}>Skills</h1>
             <ul>
                 <li>HTML</li>
                 <li>CSS, (Sass)</li>
@@ -27,7 +28,8 @@ class Skills extends React.Component<IProps, IState> {
                 <li>Agile/SCRUM development</li>
                 <li>Adobe CC, (InDesign, Illustrator, Photoshop, Premiere)</li>
             </ul>
-            <img className={styles.background}src={skillsBackground}></img>
+            <img className={styles.background} src={skillsBackground} />
+            <img className={styles.backgroundMobile} src={skillsBackgroundMobile} />
             </section>
          );
     }

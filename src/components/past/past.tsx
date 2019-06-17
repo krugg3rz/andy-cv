@@ -1,6 +1,7 @@
 import * as React from 'react';
 import styles from './past.module.scss';
 import pastBackground from "../../assets/images/pastBackground.svg";
+import pastBackgroundMobile from "../../assets/images/pastBackgroundMobile.svg";
 
 export interface IProps {
     
@@ -15,7 +16,7 @@ class Past extends React.Component<IProps, IState> {
         return ( 
             <section>
                 <article className={styles.main}>
-                    <h1>Past Experience</h1>
+                    <h1 className={styles.title}>Past Experience</h1>
                     <ul>
                         <li className={styles.role}>Northstar - Front-end developer</li>
                         <p>Collaborative refactoring, design & production of new feature for the web application 'Northstar' into React.</p>
@@ -25,7 +26,8 @@ class Past extends React.Component<IProps, IState> {
                         <p>Assembly of all CRV & Civic vehicle models, attaching real suspension subframes to the vehicles within a strict time deadline & delivery target.</p>
                     </ul>
                 </article>
-                <img src={pastBackground}></img>
+                <img className={styles.pastBackground} src={pastBackground} />
+                <img className={styles.pastBackgroundMobile} src={pastBackgroundMobile} />
             </section>
          );
     }

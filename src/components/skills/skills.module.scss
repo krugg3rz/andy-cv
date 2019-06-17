@@ -12,6 +12,11 @@ h1 {
     color: white;
     width: 30vw;
     font-size: 20px;
+    font-weight: bold;
+}
+
+.backgroundMobile {
+  display: none;
 }
 
 .background {
@@ -20,3 +25,31 @@ h1 {
     bottom: 0;
     height: 100vh;
 }
+
+@media only screen and (max-width: 1200px) {
+  .title {
+    font-size: 30px;
+  }
+  
+  .backgroundMobile {
+    display: inline-block;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 30vh;
+  }  
+  
+  .background {
+      display: none;
+    }
+
+    .main {
+      height: 55vh;
+      width: 70vw;
+      font-size: 15px;
+      margin-left: 105px;
+      -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: rgb(146, 66, 0);
+   font-weight: bold;
+    }
+  }
