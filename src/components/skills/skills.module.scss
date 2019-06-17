@@ -48,8 +48,12 @@ h1 {
       width: 70vw;
       font-size: 15px;
       margin-left: 105px;
-      -webkit-text-stroke-width: 1px;
-   -webkit-text-stroke-color: rgb(146, 66, 0);
    font-weight: bold;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
     }
   }
