@@ -5,3 +5,9 @@ html {
   -o-background-size: cover;
   background-size: cover;
 } 
+
+@media only screen and (max-width: 1200px) {
+  html {
+      background: url(./assets/images/backgroundMobile.jpg) no-repeat center center fixed;
+  }
+}
