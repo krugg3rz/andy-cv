@@ -19,7 +19,7 @@ class Past extends React.Component<IProps, IState> {
                     <h1 className={styles.title}>Past Experience</h1>
                     <ul>
                         <li className={styles.role}>Northstar - Front-end developer</li>
-                        <p>Collaborative refactoring, design & production of new feature for the web application 'Northstar' into React.</p>
+                        <p>Collaborative refactoring, design & production of new feature for the web application 'Northstar' into React. Working collaboratively in an agile environment using GitHub Flow to deliver new feature to existing product, according to requirements detailed through user stories by the product owner.</p>
                         <li className={styles.role}>IMI Webber - Production operative</li>
                         <p>Assembly, testing, packaging & shipping of multiple solenoid valve products for a wide range of clients including automotive & industrial.</p>
                         <li className={styles.role}>Honda UK Manufacturing - Production operative</li>
