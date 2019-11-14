@@ -1,25 +1,26 @@
 a {
     text-decoration: none;
     color: #803300;
+    -webkit-transition: color 0.2s ease-out;
+    -moz-transition: color 0.2 ease-out;
+    -o-transition: color 0.2s ease-out;
+    transition: color 0.2s ease-out;
 }
 
 a:visited {
-    text-decoration: none;
-    color: #803300
+    color: #803300;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: rgb(255, 243, 210);
 }
 
 a:hover {
-    text-decoration: none;
-    color: white;
+    color: rgb(253, 188, 113);
+    cursor: pointer;
 }
 
 a:focus { 
     text-decoration: none;
-    color: #803300;
- }
-a:active {
-    text-decoration: none;
-    color: #803300;
+    color: #fce9dc;
  }
 
 .bar {

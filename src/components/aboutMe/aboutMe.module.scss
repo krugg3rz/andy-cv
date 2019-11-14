@@ -7,7 +7,7 @@
 .profile {
     color: white;
     text-align: left;
-    width: 30vw;
+    width: 45vw;
     font-size: 20px;
 }
 
@@ -30,7 +30,15 @@
     height: 80vh;
     width: 50vh;
     margin-left: 160px;
+
+    -webkit-animation: fadein 1s;
+  animation: fadein 1s;
 }
+
+@keyframes fadein {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
 
 @media only screen and (max-width: 1200px) {
     .backgroundMobile {

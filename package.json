@@ -14,7 +14,7 @@
     "@types/react-router-dom": "^4.3.3",
     "firebase-tools": "^7.0.0",
     "node-sass": "^4.12.0",
-    "react": "^16.8.6",
+    "react": "^16.11.0",
     "react-dom": "^16.8.6",
     "react-fontawesome": "^1.6.1",
     "react-native": "^0.59.9",
@@ -24,7 +24,8 @@
     "react-scripts": "3.0.1",
     "sass": "^1.20.1",
     "serve": "^11.0.1",
-    "typescript": "3.4.5"
+    "typescript": "^3.7.2",
+    "yarn": "^1.19.1"
   },
   "scripts": {
     "start": "react-scripts start",
